@@ -4,7 +4,9 @@ This project analyzes the relationship between eating habits and academic perfor
 
 ## Data
 Comprehensive report: [report](report.md)
-Dataset:
+
+Dataset: [dataset](dataset.csv)
+
 Results:
 
 ## Objectives
