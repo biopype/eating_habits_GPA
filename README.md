@@ -9,7 +9,7 @@ Dataset: [dataset](dataset.csv)
 
 Code: [code](code.py)
 
-Results:
+Results: [results](results/)
 
 ## Objectives
 - Investigate the correlation between GPA and eating habits.
