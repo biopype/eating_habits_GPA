@@ -1,4 +1,4 @@
-# Comprehensive Data Analysis Report
+# Investigating the Effect of Eating Habits on the Academic Performance of Students
 
 This project analyzes the relationship between eating habits and academic performance (GPA), highlighting key factors influencing student success.
 
@@ -6,6 +6,8 @@ This project analyzes the relationship between eating habits and academic perfor
 Comprehensive report: [report](report.md)
 
 Dataset: [dataset](dataset.csv)
+
+Code: [code](code.py)
 
 Results:
 
